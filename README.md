@@ -65,6 +65,7 @@ fi
 clone the repository to your pc, run `sudo crontab -e` to edit the cron job lists, add the following line at the end of the file:
 
 ```bash 
-* * * * * /home/faramarz/power_alert.sh 
+* * * * * [path to file] 
 ```
+this runs the bash file every minute.
 and your beeping blinking OS is ready.
