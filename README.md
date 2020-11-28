@@ -1,5 +1,5 @@
 # bash_power_alert
-an insanely simple bash file which alerts low battery power in a different way
+an insanely simple bash file which alerts low battery power in an unusual way
 
 ### why i made it
 
